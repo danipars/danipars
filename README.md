@@ -47,12 +47,12 @@ Here are some ideas to get you started:
 
 ## My experience
 
-- I was part of complex projects in EDA, ETL, and analysis using tools such as Python, NumPy, Pandas, GCP, SQL, Power BI. 🚀 
-- I face challenges with creative solutions and informed decisions.  🎨 
-- I have knowledge of Agile Methodologies, Data Structures, Model evaluation, and machine learning 📚
-- I implemented cloud computing, database management, and data architecture in various projects. ☁️ 
-- Performed projects in data analysis and visualization. 📊 
-- Equipped to tackle complex challenges with valuable solutions. 🛠️ 
+- Contributed to complex projects involving EDA, ETL processes, and business analysis using Python, NumPy, Pandas, SQL, and Power BI. 🚀
+- Approach challenges with creative problem-solving and data-driven decision-making. 🎨
+- Familiar with Agile methodologies, data structures, and dashboard development for reporting. 📚
+- Worked on automation projects and optimized database management processes. ⚙️
+- Conducted detailed data analysis and created visualizations to uncover insights. 📊
+- Skilled in delivering practical, actionable solutions for business challenges. 🛠️
   
 ## 📫 How to reach me:
 
